@@ -102,3 +102,9 @@ No book is the product of a single person. There are many people who have helped
 Thanks to the technical reviewers for this book, and the first edition of it: Garrett Grolemund, Thomas Lin Pedersen, Paul Teetor, Hadley Wickham, Dennis Murphy, and Erik Iverson. Their depth of knowledge and attention to detail has resulted in a much better book.
 
 Finally, I would like to thank my wife, Sylia, for her support and understanding -- and not just with regard to the book.
+
+I want to reproduce it
+====================
+
+Yes I want it
+-------------
